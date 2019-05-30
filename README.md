@@ -1,4 +1,4 @@
-<h1 align="center">fullstack app</h1>
+<h1 align="center">Fullstack App</h1>
 
 <!-- <div align="center">
 
@@ -11,7 +11,7 @@
 
 </div> -->
 
-## ✨ 特性
+## ✨技术
 
   - express + mongodb
   - vue + vant
@@ -20,6 +20,6 @@
 <!-- ## 🔥  -->
 
 
-## ⚡其他
+## ⚡ 其他
 
 如若你有任何问题或者想法都可以在`issue`中提出
