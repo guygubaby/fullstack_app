@@ -8,7 +8,8 @@ const {
 mongoose.set('useCreateIndex', true);
 
 // const dbUrl = process.env.NODE_ENV === 'development' ? dbpath.dev : dbpath.prod
-const dbUrl = dbpath.prod
+const dbUrl = dbpath.dev
+// const dbUrl = dbpath.prod
 
 console.log('dbUrl-> ', dbUrl);
 
@@ -22,4 +23,4 @@ mongoose.connect(dbUrl, {
   process.exit(1);
 })
 
-const db = mongoose.connection;
+// const db = mongoose.connection;
